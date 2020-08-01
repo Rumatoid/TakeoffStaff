@@ -8,6 +8,11 @@ npm run start
 cd client
 npm install
 npm run serve
+
+Открыть http://localhost:8080
+
+P.S.
+(База данных MongoDB на бесплатном сервере MongoDB Atlas)
 ```
 
 
